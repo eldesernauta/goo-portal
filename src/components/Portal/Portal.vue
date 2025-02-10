@@ -26,10 +26,10 @@
     <!-- Teléfonos -->
     <div class="w-full max-w-md flex mt-8 slide-up">
       <div
-        class="relative mx-auto mb-4 inline-flex items-center justify-center gap-4 group"
+        class="relative overflow-visible mx-auto mb-4 inline-flex items-center justify-center gap-4 group"
       >
         <div
-          class="absolute inset-0 duration-1000 opacity-60 transitiona-all bg-gradient-to-r from-indigo-500 via-pink-500 to-yellow-400 rounded-full blur-lg filter group-hover:opacity-100 group-hover:duration-200"
+          class="absolute overflow-visible inset-0 duration-1000 opacity-60 transitiona-all bg-gradient-to-r from-indigo-500 via-pink-500 to-yellow-400 rounded-full blur-lg filter group-hover:opacity-100 group-hover:duration-200"
         ></div>
         <a
           role="button"
